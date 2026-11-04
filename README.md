@@ -1,11 +1,5 @@
 # Predicción de la Calificación Crediticia Corporativa
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-RNA-D00000?logo=keras&logoColor=white)
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/Proyecto_Corporate_Credit_Rating.ipynb)
-
 Proyecto de aprendizaje automático que busca **estimar la calificación crediticia (credit rating) de grandes empresas estadounidenses a partir de sus indicadores financieros**. Incluye un análisis exploratorio completo, aprendizaje **no supervisado** (clustering) y aprendizaje **supervisado** con **Redes Neuronales Artificiales** combinadas con técnicas de **reducción de dimensión** (SFFS, PCA y LDA).
 
 **Universidad de Medellín · Facultad de Ingenierías**
